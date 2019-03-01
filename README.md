@@ -1,1 +1,1 @@
-Code for data preparation and analysis of "Participating in a panel survey changes respondents’ labour market behaviour" (R. Bach and S. Eckman, forthcoming in Journal of the Royal Statistical Society, Series A: Statistics in Society, https://doi.org/10.1111/rssa.12367)
+Code for data preparation and analysis of "Participating in a panel survey changes respondents’ labour market behaviour" (R. Bach and S. Eckman, Journal of the Royal Statistical Society, Series A: Statistics in Society, https://doi.org/10.1111/rssa.12367)
