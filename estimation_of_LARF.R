@@ -1,6 +1,6 @@
 #Estimation of LARF in R ---- Results as reported in Figure 2
 
-set.seed(10021989)
+set.seed(100)
 
 library(LARF)
 library(readstata13)
